@@ -5466,6 +5466,12 @@
 		(uuid "1905f67d-3ffa-4498-91c0-21bef124a604")
 	)
 	(junction
+		(at 170.18 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1b45299e-5fb5-4dca-a721-5a4614089da1")
+	)
+	(junction
 		(at 53.34 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5476,6 +5482,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "219af43b-d4b3-4c21-8e70-e83a1371d190")
+	)
+	(junction
+		(at 170.18 161.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2a455fed-72a8-49e9-96a2-a52d7e957a79")
 	)
 	(junction
 		(at 190.5 172.72)
@@ -5536,6 +5548,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "46e0c4b4-654c-40df-8a52-b835457baed0")
+	)
+	(junction
+		(at 170.18 208.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "47938446-5b31-4d3f-873b-dca7697a101f")
 	)
 	(junction
 		(at 328.93 109.22)
@@ -5616,6 +5634,12 @@
 		(uuid "74752571-6baf-430d-826c-eefc4fed20b2")
 	)
 	(junction
+		(at 176.53 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7637a3b1-7ab1-4418-b2f7-34747e3f05e3")
+	)
+	(junction
 		(at 359.41 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5650,6 +5674,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "83e24f1e-b1cd-47c3-b0cb-d5763060298c")
+	)
+	(junction
+		(at 176.53 196.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85b14462-5252-4dda-8de7-05e89f0ac18e")
 	)
 	(junction
 		(at 198.12 50.8)
@@ -5800,6 +5830,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6f4bcb8-52e7-4f8d-927d-76e7188a153d")
+	)
+	(junction
+		(at 176.53 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c75f4d92-408c-4e67-ae98-b9247253e542")
 	)
 	(junction
 		(at 25.4 96.52)
@@ -6295,7 +6331,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 101.6) (xy 185.42 101.6)
+			(xy 170.18 101.6) (xy 176.53 101.6)
 		)
 		(stroke
 			(width 0)
@@ -6775,6 +6811,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 205.74) (xy 176.53 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26085661-c6e1-4c6e-a86d-8a4674255262")
+	)
+	(wire
+		(pts
 			(xy 241.3 110.49) (xy 243.84 110.49)
 		)
 		(stroke
@@ -6812,6 +6858,16 @@
 			(type default)
 		)
 		(uuid "27260ab8-bc34-4433-84fb-8cc4c8d094ff")
+	)
+	(wire
+		(pts
+			(xy 176.53 196.85) (xy 185.42 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "275ae86b-c1f9-401b-a7be-630e93fed9f1")
 	)
 	(wire
 		(pts
@@ -7835,6 +7891,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 208.28) (xy 170.18 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51aa75cd-0fdb-4ce4-b3cf-938bfbebcfcd")
+	)
+	(wire
+		(pts
 			(xy 279.4 232.41) (xy 281.94 232.41)
 		)
 		(stroke
@@ -8235,6 +8301,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 196.85) (xy 176.53 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61e6b047-c574-4c64-92aa-8f4467298c60")
+	)
+	(wire
+		(pts
 			(xy 261.62 161.29) (xy 264.16 161.29)
 		)
 		(stroke
@@ -8302,6 +8378,16 @@
 			(type default)
 		)
 		(uuid "6410e5fd-03f5-4250-b6f0-bef0ce8ff7c9")
+	)
+	(wire
+		(pts
+			(xy 176.53 101.6) (xy 185.42 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "645571bf-9886-468d-b9eb-893974b37eed")
 	)
 	(wire
 		(pts
@@ -8605,6 +8691,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 110.49) (xy 176.53 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70d1a71a-c9f2-48ce-818b-0c063156a755")
+	)
+	(wire
+		(pts
 			(xy 242.57 198.12) (xy 269.24 198.12)
 		)
 		(stroke
@@ -8682,6 +8778,16 @@
 			(type default)
 		)
 		(uuid "76492c7f-fe88-4e39-b31a-17b028374058")
+	)
+	(wire
+		(pts
+			(xy 176.53 149.86) (xy 176.53 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7652bbda-a1fa-4d74-9369-20c496eedf0c")
 	)
 	(wire
 		(pts
@@ -9235,6 +9341,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 161.29) (xy 170.18 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8af88144-1448-4bee-876a-858d15c2ac1b")
+	)
+	(wire
+		(pts
 			(xy 388.62 35.56) (xy 396.24 35.56)
 		)
 		(stroke
@@ -9282,6 +9398,16 @@
 			(type default)
 		)
 		(uuid "8dbbdce3-cde8-41a6-bd26-b5ffbfd5caee")
+	)
+	(wire
+		(pts
+			(xy 176.53 101.6) (xy 176.53 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8dd3fbaa-253d-4eff-853e-ea3d3cb7a878")
 	)
 	(wire
 		(pts
@@ -9695,7 +9821,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 196.85) (xy 185.42 196.85)
+			(xy 170.18 196.85) (xy 176.53 196.85)
 		)
 		(stroke
 			(width 0)
@@ -10275,6 +10401,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 158.75) (xy 176.53 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "afa78212-4c8f-47ad-bb73-b7560cafd359")
+	)
+	(wire
+		(pts
 			(xy 281.94 33.02) (xy 279.4 33.02)
 		)
 		(stroke
@@ -10402,6 +10538,16 @@
 			(type default)
 		)
 		(uuid "b4dbedb6-8f5f-4409-b01b-b335a4d0e2d9")
+	)
+	(wire
+		(pts
+			(xy 176.53 113.03) (xy 170.18 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b52b8c4a-8c8b-4f69-b7e5-324b6efe4c44")
 	)
 	(wire
 		(pts
@@ -10742,6 +10888,16 @@
 			(type default)
 		)
 		(uuid "c1972093-1e4b-4084-bb82-52f49c42ea50")
+	)
+	(wire
+		(pts
+			(xy 176.53 149.86) (xy 185.42 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1d4176c-bd95-4d26-bcaa-5cb5284b51ea")
 	)
 	(wire
 		(pts
@@ -11365,7 +11521,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 149.86) (xy 185.42 149.86)
+			(xy 170.18 149.86) (xy 176.53 149.86)
 		)
 		(stroke
 			(width 0)
@@ -23581,10 +23737,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "14ced603-1dc5-41bb-972f-395719e991e9")
 		(property "Reference" "D2"
-			(at 172.72 202.2474 90)
+			(at 170.434 200.406 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23593,7 +23748,7 @@
 			)
 		)
 		(property "Value" "RB551V-30-HF"
-			(at 172.72 204.7874 90)
+			(at 169.418 210.058 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24295,10 +24450,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "246e24d4-d4ed-461e-bbdf-5685ed96448a")
 		(property "Reference" "D6"
-			(at 172.72 155.2574 90)
+			(at 170.434 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24307,7 +24461,7 @@
 			)
 		)
 		(property "Value" "RB551V-30-HF"
-			(at 172.72 157.7974 90)
+			(at 169.672 163.068 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27446,6 +27600,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 176.53 154.94 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "56bbeedc-edb4-4806-8966-b27212543a69")
+		(property "Reference" "C20"
+			(at 178.816 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1nF"
+			(at 178.816 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+			(at 175.5648 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 176.53 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 176.53 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f9cb10e5-bb67-45eb-aa63-3d1e36c6fb72")
+		)
+		(pin "2"
+			(uuid "37f3b40d-fc0d-4f74-bd95-220c80734dff")
+		)
+		(instances
+			(project "velion_lightboard_pcb"
+				(path "/f2be4f43-9953-4038-b462-7faf73a0f8aa"
+					(reference "C20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
 		(at 134.62 35.56 0)
 		(unit 1)
@@ -29254,6 +29477,75 @@
 			(project "velion_lightboard_pcb"
 				(path "/f2be4f43-9953-4038-b462-7faf73a0f8aa"
 					(reference "R36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 176.53 201.93 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7d555cb8-8aea-4bdc-a689-165110d032e1")
+		(property "Reference" "C21"
+			(at 178.816 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1nF"
+			(at 178.816 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+			(at 175.5648 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 176.53 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 176.53 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9139ae53-212a-4d32-a095-d47a968f597d")
+		)
+		(pin "2"
+			(uuid "ef006a5e-a298-4cd1-b297-bc8a057d9348")
+		)
+		(instances
+			(project "velion_lightboard_pcb"
+				(path "/f2be4f43-9953-4038-b462-7faf73a0f8aa"
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -34279,10 +34571,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c5823edd-3231-482e-baf8-abb5475936fe")
 		(property "Reference" "D9"
-			(at 172.72 106.9974 90)
+			(at 170.688 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34291,7 +34582,7 @@
 			)
 		)
 		(property "Value" "RB551V-30-HF"
-			(at 172.72 109.5374 90)
+			(at 169.672 115.824 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36487,6 +36778,75 @@
 			(project "velion_lightboard_pcb"
 				(path "/f2be4f43-9953-4038-b462-7faf73a0f8aa"
 					(reference "#PWR082")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 176.53 106.68 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "eafa6c70-2f71-4914-8d0b-b468a10fe943")
+		(property "Reference" "C19"
+			(at 178.816 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1nF"
+			(at 178.816 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+			(at 175.5648 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 176.53 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 176.53 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "566384a1-a7c0-450f-8549-d8c17d84c2e2")
+		)
+		(pin "2"
+			(uuid "4aadcede-0eed-4954-8ce5-0ac4c23ee1e0")
+		)
+		(instances
+			(project "velion_lightboard_pcb"
+				(path "/f2be4f43-9953-4038-b462-7faf73a0f8aa"
+					(reference "C19")
 					(unit 1)
 				)
 			)
