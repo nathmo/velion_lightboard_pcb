@@ -564,7 +564,7 @@
       "plot": "exports/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "velion_lightboard_pcb.step",
       "svg": "",
       "vrml": ""
     },
